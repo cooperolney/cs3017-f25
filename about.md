@@ -38,7 +38,7 @@ Photo by Maarten Duineveld on Unsplash
 
 [My Github Profile](https://github.com/cooperolney)
 
-[GitHub Pages Site](https://cooperolney.github.io/cs3017-f25/about)
+[GitHub Pages Site for the Homework](https://cooperolney.github.io/cs3017-f25/about)
 
 
 
