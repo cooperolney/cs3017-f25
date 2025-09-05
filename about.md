@@ -11,7 +11,9 @@ I also play soccer, and am a member of the club soccer team at SLU. In addition 
 
 ---
 
-![Guy Skiing on Mountain](https://unsplash.com/photos/man-ice-skiing-on-hill-pmfJcN7RGiw)
+![Guy Skiing on Mountain](skiing.jpg)
+
+Photo by Maarten Duineveld on Unsplash
 
 ---
 
