@@ -9,6 +9,12 @@ Some of my hobbies include skiing, it has always been one of my favorite ways to
 Growing up I mostly skied at Stowe Mountain, and more recently I've been skiing at Whiteface.
 I also play soccer, and am a member of the club soccer team at SLU. In addition I enjoy golfing whenever I can, espically during the summer.
 
+---
+
+![Guy Skiing on Mountain](https://unsplash.com/photos/man-ice-skiing-on-hill-pmfJcN7RGiw)
+
+---
+
 ### More Hobbies
 - Hiking
 - Biking
@@ -24,13 +30,14 @@ I also play soccer, and am a member of the club soccer team at SLU. In addition 
 
 1. Pizza
 2. Chocolate Chip Cookies
-3. Grapes
+3. Chicken Caesar Wrap
 
 ## Where to Find Me
 
 [My Github Profile](https://github.com/cooperolney)
 
-[GitHub Pages]()
+[GitHub Pages Site](https://cooperolney.github.io/cs3017-f25/about)
+
 
 
 
